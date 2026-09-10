@@ -1,0 +1,12 @@
+{
+  "name": "template-desafio-js",
+  "version": "1.0.0",
+  "description": "Template pronto com prompt-sync para exercícios e desafios em JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
